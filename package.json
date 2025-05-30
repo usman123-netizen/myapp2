@@ -1,6 +1,6 @@
 {
   "name": "myapp2",
-  "https": "//github.com/usman123-netizen/myapp2",
+  "https": "https://github.com/usman123-netizen/myapp2",
   "private": true,
   "version": "0.0.0",
   "type": "module",
